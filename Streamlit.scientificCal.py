@@ -24,4 +24,4 @@ if st.button(""Submit""):
     
     # Extra message for ambitious target
     if sales_target > 100000:
-        st.write(""Great! You have set an ambitious target!"")"
+        st.write(""Great! You have set an ambitious target!"")
