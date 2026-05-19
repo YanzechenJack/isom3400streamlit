@@ -1,3 +1,4 @@
+import streamlit as st
 import math
 
 st.header("Scientific Functions")
